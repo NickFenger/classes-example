@@ -4,6 +4,8 @@ public class ChallengeSetFour {
     public static void main(String[]args){
         new ChallengeSetFour();
     }
+
+
     public ChallengeSetFour(){
         guessingGame();
 
