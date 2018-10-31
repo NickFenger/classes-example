@@ -1,6 +1,6 @@
 # Java Challenge Set #04
 
-Name:Ethan Hopper
+Name:Nick Fenger
 
 Link to assignment: https://docs.google.com/document/d/1LtO87ei01AQLGpP8MNNkKKRssggqljmDOKPmRmG9fn4
 
