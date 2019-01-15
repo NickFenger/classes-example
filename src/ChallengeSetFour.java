@@ -7,9 +7,11 @@ public class ChallengeSetFour {
 
 
     public ChallengeSetFour(){
+        //added this comment
         guessingGame();
 
     }
+
     public void guessingGame() {
         while (5 != 4) {
             int randNum = (int) Math.floor(Math.random() * 1001);
