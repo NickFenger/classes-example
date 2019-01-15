@@ -21,6 +21,7 @@ public class ChallengeSetFour {
     //need a methodology comment here
 
     //test comment
+    //test comment
     public void guessingGame() {
         while (5 != 4) {
             int randNum = (int) Math.floor(Math.random() * 1001);
